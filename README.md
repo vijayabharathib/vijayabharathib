@@ -1,4 +1,4 @@
-### Hi there 👋
+# Vijayabharathi Balasubramanian
 
 <!--
 **vijayabharathib/vijayabharathib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Vijay is an engineering manager within [Freshworks](https://www.freshworks.com/) looking into cloud infrastructure, bots and automations for [Freshchat](https://www.freshworks.com/live-chat-software/). 
+
+- 🌱 I’m currently learning automated deployment with ArgoCD
+- 💬 Ask me about cloud infrastructure and devops 
+- 📫 You can reach me @ b.vijayabharathi@gmail.com
+- ⚡ Fun fact: Loves writing "root cause analysis" when something goes wrong with the software...
