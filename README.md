@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Vijay is an engineering manager within [Freshworks](https://www.freshworks.com/) looking into cloud infrastructure, bots and automations for [Freshchat](https://www.freshworks.com/live-chat-software/). 
+Vijay is an engineering manager within [Freshworks](https://www.freshworks.com/) looking into *Site Reliability Engineering* for cloud infrastructure that runs [Freshchat](https://www.freshworks.com/live-chat-software/). 
 
-- 🌱 I’m currently learning automated deployment with ArgoCD
-- 💬 Ask me about cloud infrastructure and devops 
+- 🌱 I’m currently into terraform and argocd (tools of the SRE trade)
+- 💬 Ask me about SRE, observability, cloud infrastructure and devops 
 - 📫 You can reach me @ b.vijayabharathi@gmail.com
 - ⚡ Fun fact: Loves writing "root cause analysis" when something goes wrong with the software...
